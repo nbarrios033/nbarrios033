@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Engineering
 - 🌱 I’m currently learning Snowflake
 - 💞️ I’m looking to collaborate on becoming a better analysts
-- 📫 How to reach me here on Github
+- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/nicholas-barrios-nb033
 
 <!---
 nbarrios033/nbarrios033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
